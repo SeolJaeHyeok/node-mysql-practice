@@ -1,3 +1,5 @@
 node_modules
 password.js
 example.sql
+
+nodejs/mysql.js
